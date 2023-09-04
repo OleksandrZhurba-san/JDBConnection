@@ -5,10 +5,7 @@ public class JDBConnection {
 //    final static Logger logger = Logger.getLogger(JDBConnection.class);
 
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    static final String DB_URL = "jdbc:mysql://localhost/student_progress";
 
-    static final String USER = "alexandr";
-    static final String PASS = "hellfire";
 
     public static void main (String... args) {
 
